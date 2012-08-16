@@ -849,7 +849,6 @@ section #title .credits.right {
     display: none;
   }
 }
-/////////////////////////////////////////////////////////////
 
 #sec {
   margin: 16px auto;
@@ -934,4 +933,5 @@ a:hover span {
   transform: scale(-1, 1);
   text-shadow: 0 0 50px rgba(255, 255, 255, 0.5);
 }
+
 
